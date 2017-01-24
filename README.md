@@ -38,9 +38,11 @@
 
 ### 安装Ananconda
 
-请登录网站https://anaconda.org获取最新的Anaconda安装包。
+请访问网站[https://anaconda.org](https://anaconda.org)获取最新的Anaconda安装包。
 
-### 安装原版Python
+### 安装原版PyCharm
 
-请登录网站https://python.org获取最新的原版Python安装包。
+请访问网站https://www.jetbrains.com/pycharm/
+
+
 
