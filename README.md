@@ -42,7 +42,5 @@
 
 ### 安装原版PyCharm
 
-请访问网站[https://www.jetbrains.com/pychar](https://www.jetbrains.com/pycharm/)m
-
-
+请访问网站[https://www.jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/)获取最新的PyCharm安装包。
 
