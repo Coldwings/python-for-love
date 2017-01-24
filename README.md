@@ -42,7 +42,7 @@
 
 ### 安装原版PyCharm
 
-请访问网站https://www.jetbrains.com/pycharm/
+请访问网站[https://www.jetbrains.com/pychar](https://www.jetbrains.com/pycharm/)m
 
 
 
